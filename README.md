@@ -1,4 +1,4 @@
-# Cryptocurrency-Price-Prediction-using-Machine-Learning-and-Python-
+# Cryptocurrency Price Prediction using Machine Learning and Python
 ## Project Overview
 The project harnesses advanced machine learning and deep learning techniques to forecast Bitcoin prices in the volatile cryptocurrency market. It integrates traditional technical indicators and cutting-edge algorithms to create predictive models that help investors and analysts make informed decisions.
 
@@ -14,6 +14,6 @@ The dataset used in this project includes historical Bitcoin prices from January
 
 ## Models
 The project explores several models:
-Machine Learning Models: Random Forest, Gradient Boosting
-Deep Learning Models: LSTM, GRU
-Ensemble Methods: BART, XGBoost
+- Machine Learning Models: Random Forest, Gradient Boosting
+- Deep Learning Models: LSTM, GRU
+- Ensemble Methods: BART, XGBoost
